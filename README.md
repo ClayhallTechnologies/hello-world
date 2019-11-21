@@ -1,2 +1,2 @@
 # hello-world
-Starting of with a Project in GitHub
+Starting off with a Project in GitHub
